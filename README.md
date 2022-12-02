@@ -1,12 +1,12 @@
 # twitter_analysis_universities
 ## Problem Statement
 Explore the tweets posted by any two international universities. Analyze the data in tweets and answer some common questions that international students applying to the university might have, like:
-a) Which words are mostly used in the tweets?
-b) Which hashtags does the university use mostly?
-c) Which university is more active during summer?
+1. Which words are mostly used in the tweets?
+2. Which hashtags does the university use mostly?
+3. Which university is more active during summer?
 Perform some analyzes that helps the university, like:
-a) What day of the week do the shared tweets attract more attention?
-b) What time of day do the shared tweets attract maximum likes?
+1. What day of the week do the shared tweets attract more attention?
+2. What time of day do the shared tweets attract maximum likes?
 
 ## Problem Importance
 This project helps the international students applying to universities gain more insight into what the university promotes, student life etc. It can further help them compare two universities based in same city.
